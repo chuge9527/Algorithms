@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1ceb0c06-41a3-4063-8995-3965d4b55aa8" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hqSjV4aaN7vQpArPlX5z2wF5KA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\ideaWorkSpace\DEMO\src\tree" />
+      <recent name="E:\ideaWorkSpace\DEMO\src\Search" />
+      <recent name="E:\ideaWorkSpace\DEMO\src\sort\advance" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.DESUtils">
+    <configuration name="DESUtils" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="test.DESUtils" />
+      <module name="DEMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListUDG" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.base.ListUDG" />
+      <module name="DEMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.base.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ListUDG1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.search.ListUDG1" />
+      <module name="DEMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixDG2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.search.MatrixDG2" />
+      <module name="DEMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MatrixUDG1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="graph.search.MatrixUDG1" />
+      <module name="DEMO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="graph.search.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DESUtils" />
+        <item itemvalue="Application.MatrixDG2" />
+        <item itemvalue="Application.ListUDG1" />
+        <item itemvalue="Application.MatrixUDG1" />
+        <item itemvalue="Application.ListUDG" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1ceb0c06-41a3-4063-8995-3965d4b55aa8" name="Default Changelist" comment="" />
+      <created>1600737265306</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600737265306</updated>
+      <workItem from="1600737268478" duration="288000" />
+      <workItem from="1600737570139" duration="4000" />
+      <workItem from="1600737592821" duration="554000" />
+      <workItem from="1600759789025" duration="2995000" />
+      <workItem from="1600911567202" duration="12468000" />
+      <workItem from="1601171340092" duration="9717000" />
+      <workItem from="1601367137322" duration="1328000" />
+      <workItem from="1601435814996" duration="5055000" />
+      <workItem from="1602206722014" duration="17184000" />
+      <workItem from="1602293575388" duration="10243000" />
+      <workItem from="1602463270482" duration="17012000" />
+      <workItem from="1602567894902" duration="3462000" />
+      <workItem from="1602637944420" duration="12853000" />
+      <workItem from="1602723596376" duration="10671000" />
+      <workItem from="1602809045901" duration="11901000" />
+      <workItem from="1603074258608" duration="15199000" />
+      <workItem from="1603172163326" duration="2006000" />
+      <workItem from="1603185178082" duration="1979000" />
+      <workItem from="1603248037856" duration="4580000" />
+      <workItem from="1603326993768" duration="4095000" />
+      <workItem from="1603677352308" duration="12768000" />
+      <workItem from="1603940817375" duration="5774000" />
+      <workItem from="1604039181750" duration="988000" />
+      <workItem from="1604381349415" duration="4358000" />
+      <workItem from="1604477643006" duration="2683000" />
+      <workItem from="1604559377126" duration="2062000" />
+      <workItem from="1604628843972" duration="2580000" />
+      <workItem from="1604640536347" duration="1862000" />
+      <workItem from="1604971852301" duration="10552000" />
+      <workItem from="1605060403691" duration="896000" />
+      <workItem from="1605081559890" duration="413000" />
+      <workItem from="1605082224795" duration="1299000" />
+      <workItem from="1605163799205" duration="10078000" />
+      <workItem from="1605228553479" duration="9947000" />
+      <workItem from="1605518941183" duration="629000" />
+      <workItem from="1605522905967" duration="1669000" />
+      <workItem from="1605573933712" duration="11116000" />
+      <workItem from="1605753734967" duration="3432000" />
+      <workItem from="1605853854533" duration="4473000" />
+      <workItem from="1606201587200" duration="621000" />
+      <workItem from="1606376855448" duration="662000" />
+      <workItem from="1607319785942" duration="222000" />
+      <workItem from="1611537301968" duration="624000" />
+      <workItem from="1611627227968" duration="25000" />
+      <workItem from="1611627348724" duration="3021000" />
+      <workItem from="1614589541621" duration="488000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.cpp" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="685" y="194" key="FileChooserDialogImpl" timestamp="1614590021130">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="685" y="194" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1614590021130" />
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom" timestamp="1611650424178">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1611650424178" />
+    <state width="1493" height="250" key="GridCell.Tab.0.center" timestamp="1611650424178">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1611650424178" />
+    <state width="1493" height="250" key="GridCell.Tab.0.left" timestamp="1611650424178">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1611650424178" />
+    <state width="1493" height="250" key="GridCell.Tab.0.right" timestamp="1611650424178">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="250" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1611650424178" />
+  </component>
+</project>
