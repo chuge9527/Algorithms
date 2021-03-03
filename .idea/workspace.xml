@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1ceb0c06-41a3-4063-8995-3965d4b55aa8" name="Default Changelist" comment="" />
+    <list default="true" id="1ceb0c06-41a3-4063-8995-3965d4b55aa8" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,6 +18,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="E:\ideaWorkSpace\DEMO\.idea" />
+      </set>
+    </option>
   </component>
   <component name="ProjectId" id="1hqSjV4aaN7vQpArPlX5z2wF5KA" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -189,8 +198,17 @@
       <workItem from="1611537301968" duration="624000" />
       <workItem from="1611627227968" duration="25000" />
       <workItem from="1611627348724" duration="3021000" />
-      <workItem from="1614589541621" duration="488000" />
+      <workItem from="1614589541621" duration="2472000" />
+      <workItem from="1614740703703" duration="615000" />
     </task>
+    <task id="LOCAL-00001" summary="2021.03.01 第一次提交">
+      <created>1614590216839</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614590216839</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -199,7 +217,15 @@
   <component name="UnknownFeatures">
     <option featureType="com.intellij.fileTypeFactory" implementationName="*.cpp" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="2021.03.01 第一次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="2021.03.01 第一次提交" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="372" y="11" key="CommitChangelistDialog2" timestamp="1614590212980">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="372" y="11" key="CommitChangelistDialog2/0.0.1536.834@0.0.1536.834" timestamp="1614590212980" />
     <state x="685" y="194" key="FileChooserDialogImpl" timestamp="1614590021130">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
